@@ -1,0 +1,34 @@
+[
+  {    
+    "status":2,
+    "status_text":"Busy",    
+    "name":"Jane Cooper",
+    "text":"Regional Paardigm Technic...",
+    "avatar":"user-09",
+    "email":"jane.cooper@example.com"
+  },
+  {
+    "status":1,
+    "status_text":"Active",    
+    "name":"Cody Fisher",
+    "text":"Product Directives Officer",
+    "avatar":"user-02",
+    "email":"cody.fisher@example.com"
+  },
+  {
+    "status":1,
+    "status_text":"Active",    
+    "name":"Esther Howard",
+    "text":"Forward Response Developer",
+    "avatar":"user-03",
+    "email":"esther.howard@example.com"
+  },
+  {
+    "status":2,
+    "status_text":"Busy",    
+    "name":"Jenny Wilson",
+    "text":"Central Security Manager",
+    "avatar":"user-06",
+    "email":"example@example.com"
+  }
+]
